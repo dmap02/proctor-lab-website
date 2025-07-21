@@ -1,0 +1,48 @@
+---
+title: "Our Team"
+---
+
+Individuals interested in exploring opportunities in our group should email a statement of interest along with a CV or resume to dinah.m.proctor at uth dot tmc dot edu.
+
+
+<h3><strong>Diana M. Proctor, PhD</strong></h3>
+
+<img src="diana.png" alt="Diana M. Proctor" width="150" height="150"
+     style="margin-left: 20px; float: right; border-radius: 12px; border: 1px solid #ccc; object-fit: cover; object-position: center;">
+
+<p>
+  <strong>Principal Investigator</strong>
+</p>
+
+<p>
+  A first generation college graduate and native of West Texas, Diana completed a B.A. at Hampshire College before earning a PhD in the Department of Microbiology & Immunology at Stanford University. She completed postdoctoral training in microbial genomics at the NIH prior to starting her Lab in October 2024.
+</p>
+
+<p>
+  In her free time, she enjoys hiking, sitting under trees with her pup, and taking care of family.
+</p>
+
+<p>
+  <strong>Email:</strong> <a href="mailto:dinah.m.proctor@uth.tmc.edu">dinah.m.proctor@uth.tmc.edu</a>
+</p>
+
+<hr style="clear: both; margin-top: 40px; margin-bottom: 40px;">
+
+<h3><strong>Lucy Proctor</strong></h3>
+
+<img src="lucy.jpeg" alt="Lucy Proctor" width="150" height="150"
+     style="margin-left: 20px; float: right; border-radius: 12px; border: 1px solid #ccc; object-fit: cover; object-position: center;">
+
+<p>
+  <strong>Principal Stick Investigator</strong>
+</p>
+
+<p>
+  Meet Lucy, our Principal Stick Investigator. While we wrangle data in the lab, Lucy takes charge of sticks, snow, and sand with unmatched enthusiasm. Her playful spirit and unwavering loyalty bring joy to our team, reminding us to find balance in our work and play.
+</p>
+
+<p>
+  In her free time, she enjoys games of fetch as well as swimming in lakes and the ocean.
+</p>
+
+<hr style="clear: both; margin-top: 40px; margin-bottom: 40px;">

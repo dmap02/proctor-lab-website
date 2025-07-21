@@ -1,0 +1,9 @@
+---
+title: "Proctor Lab at UTHealth Houston"
+---
+
+## Candida and Microbiome Dynamics
+
+
+<p><strong>We use genomics to study the global impact, pathogenesis, and evolution of host-associated *Candida* species within the microbiome</strong></p>
+<img src="lab_projects.png"  alt="Trend surface analysis" style="float:bottom;width:500px;height:400px;">

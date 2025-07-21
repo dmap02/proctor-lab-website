@@ -1,0 +1,32 @@
+---
+title: "Test People"
+output: html_document
+---
+
+<!-- Include CSS styles inline -->
+<style>
+  .row { display: flex; gap: 20px; margin-top: 40px; }
+  .box { border: 2px solid #888; padding: 10px; width: 220px; height: 220px; }
+  .box img { width: 100%; height: 100%; object-fit: cover; }
+  .bio { border: 2px solid #888; padding: 15px; width: 500px; }
+  .bio h2 { font-size: 1.5em; margin-bottom: 0.2em; }
+  .bio h3 { font-size: 1.2em; margin-top: 0; margin-bottom: 1em; color: #555; }
+  .bio p { font-size: 1em; line-height: 1.4; }
+</style>
+
+<!-- Entire HTML block: no markdown here -->
+<div class="row">
+  <div class="box">
+    <img src="diana.jpg" alt="Diana" />
+  </div>
+  <div class="bio">
+    <h2>Diana M. Proctor, PhD</h2>
+    <h3>Principal Investigator</h3>
+    <p>
+      A first generation college graduate and native of West Texas, Diana completed a B.A. at Hampshire College before earning a PhD in the Department of Microbiology & Immunology at Stanford University. She completed postdoctoral training in microbial genomics at the NIH prior to starting her Lab in October 2024.
+    </p>
+    <p>
+      Email: <a href="mailto:dinah.m.proctor@uth.tmc.edu">dinah.m.proctor@uth.tmc.edu</a>
+    </p>
+  </div>
+</div>

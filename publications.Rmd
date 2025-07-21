@@ -1,0 +1,48 @@
+---
+title: "Publications"
+output: html_document
+---
+
+<img src="papers.JPG" alt="Picture of publications" width="800" 
+     style="margin-left: 20px; border-radius: 8px; height: 380px; object-fit: contain; display: block; margin-bottom: 20px;">
+
+
+<h2>2025</h2>
+<ul>
+  <li><strong>Proctor DM</strong>, Abraham R, Righi SE. From novice to expert: preparing your peer review. <em>mBio</em>. 2025 Jul 9;16(7):e0043025. <a href="https://doi.org/10.1128/mbio.00430-25" target="_blank">doi: 10.1128/mbio.00430-25</a>. Epub 2025 Jun 5.</li>
+
+  <li><strong>Proctor DM</strong>, Sansom SE, Deming C, Conlan S, Blaustein RA, Atkins TK; NISC Comparative Sequencing Program; Dangana T, Fukuda C, Thotapalli L, Kong HH, Lin MY, Hayden MK, Segre JA. Clonal Candida auris and ESKAPE pathogens on the skin of residents of nursing homes. <em>Nature</em>. 2025 Mar;639(8056):1016-1023. <a href="https://doi.org/10.1038/s41586-025-08608-9" target="_blank">doi: 10.1038/s41586-025-08608-9</a>. Epub 2025 Feb 26.</li>
+</ul>
+
+<h2>Pre-2025</h2>
+<ul>
+  <li>Ryu EP, Gautam Y, <strong>Proctor DM</strong>, Bhandari D, Tandukar S, Gupta M, Gautam GP, Relman DA, Shibl AA, Sherchand JB, Jha AR, Davenport ER. Correction: Nepali oral microbiomes reflect a gradient of lifestyles from traditional to industrialized. <em>Microbiome</em>. 2024 Dec 3;12(1):252. <a href="https://doi.org/10.1186/s40168-024-01988-6" target="_blank">doi: 10.1186/s40168-024-01988-6</a>.</li>
+
+  <li><strong>Proctor DM</strong>, Drummond RA, Lionakis MS, Segre JA. One population, multiple lifestyles: Commensalism and pathogenesis in the human mycobiome. <em>Cell Host Microbe</em>. 2023 Apr 12;31(4):539-553. <a href="https://doi.org/10.1016/j.chom.2023.02.010" target="_blank">doi: 10.1016/j.chom.2023.02.010</a>.</li>
+
+  <li><strong>Proctor DM</strong>, Dada N, Serquiña A, Willett JLE. Problems with Peer Review Shine a Light on Gaps in Scientific Training. <em>mBio</em>. 2023 Jun 27;14(3):e0318322. <a href="https://doi.org/10.1128/mbio.03183-22" target="_blank">doi: 10.1128/mbio.03183-22</a>. Epub 2023 Apr 13.</li>
+
+  <li><strong>Proctor DM</strong>. Nothing about Us without Us: the Roles of Diverse Stakeholders in Scientific Publishing. <em>mBio</em>. 2023 Apr 25;14(2):e0268522. <a href="https://doi.org/10.1128/mbio.02685-22" target="_blank">doi: 10.1128/mbio.02685-22</a>. Epub 2023 Mar 7.</li>
+
+  <li>Liang H, Jo JH, Zhang Z, MacGibeny MA, Han J, <strong>Proctor DM</strong>, Taylor ME, Che Y, Juneau P, Apolo AB, McCulloch JA, Davar D, Zarour HM, Dzutsev AK, Brownell I, Trinchieri G, Gulley JL, Kong HH. Predicting cancer immunotherapy response from gut microbiomes using machine learning models. <em>Oncotarget</em>. 2022 Jul 19;13:876-889. <a href="https://doi.org/10.18632/oncotarget.28252" target="_blank">doi: 10.18632/oncotarget.28252</a>.</li>
+
+  <li>Sim CK, Kashaf SS, Stacy A, <strong>Proctor DM</strong>, Almeida A, Bouladoux N, Chen M; NISC Comparative Sequencing Program; Finn RD, Belkaid Y, Conlan S, Segre JA. A mouse model of occult intestinal colonization demonstrating antibiotic-induced outgrowth of carbapenem-resistant Enterobacteriaceae. <em>Microbiome</em>. 2022 Mar 10;10(1):43. <a href="https://doi.org/10.1186/s40168-021-01207-6" target="_blank">doi: 10.1186/s40168-021-01207-6</a>.</li>
+
+  <li>Saheb Kashaf S, <strong>Proctor DM</strong>, Deming C, Saary P, Hölzer M; NISC Comparative Sequencing Program; Taylor ME, Kong HH, Segre JA, Almeida A, Finn RD. Integrating cultivation and metagenomics for a multi-kingdom view of skin microbiome diversity and functions. <em>Nat Microbiol</em>. 2022 Jan;7(1):169-179. <a href="https://doi.org/10.1038/s41564-021-01011-w" target="_blank">doi: 10.1038/s41564-021-01011-w</a>. Epub 2021 Dec 24.</li>
+
+  <li>Lisco A, Hsu AP, Dimitrova D, <strong>Proctor DM</strong>, Mace EM, Ye P, Anderson MV, Hicks SN, Grivas C, Hammoud DA, Manion M, Starrett GJ, Farrel A, Dobbs K, Brownell I, Buck C, Notarangelo LD, Orange JS, Leonard WJ, Orestes MI, Peters AT, Kanakry JA, Segre JA, Kong HH, Sereti I. Treatment of Relapsing HPV Diseases by Restored Function of Natural Killer Cells. <em>N Engl J Med</em>. 2021 Sep 2;385(10):921-929. <a href="https://doi.org/10.1056/NEJMoa2102715" target="_blank">doi: 10.1056/NEJMoa2102715</a>.</li>
+
+  <li>Huang X, Welsh RM, Deming C, <strong>Proctor DM</strong>, Thomas PJ; NISC Comparative Sequencing Program; Gussin GM, Huang SS, Kong HH, Bentz ML, Vallabhaneni S, Chiller T, Jackson BR, Forsberg K, Conlan S, Litvintseva AP, Segre JA. Skin Metagenomic Sequence Analysis of Early Candida auris Outbreaks in U.S. Nursing Homes. <em>mSphere</em>. 2021 Aug 25;6(4):e0028721. <a href="https://doi.org/10.1128/mSphere.00287-21" target="_blank">doi: 10.1128/mSphere.00287-21</a>. Epub 2021 Aug 4.</li>
+
+  <li><strong>Proctor DM</strong>, Dangana T, Sexton DJ, Fukuda C, Yelin RD, Stanley M, Bell PB, Baskaran S, Deming C, Chen Q, Conlan S, Park M; NISC Comparative Sequencing Program; Welsh RM, Vallabhaneni S, Chiller T, Forsberg K, Black SR, Pacilli M, Kong HH, Lin MY, Schoeny ME, Litvintseva AP, Segre JA, Hayden MK. Integrated genomic, epidemiologic investigation of Candida auris skin colonization in a skilled nursing facility. <em>Nat Med</em>. 2021 Aug;27(8):1401-1409. <a href="https://doi.org/10.1038/s41591-021-01383-w" target="_blank">doi: 10.1038/s41591-021-01383-w</a>. Epub 2021 Jun 21.</li>
+
+  <li><strong>Proctor DM</strong>, Shelef KM, Gonzalez A, Davis CL, Dethlefsen L, Burns AR, Loomer PM, Armitage GC, Ryder MI, Millman ME, Knight R, Holmes SP, Relman DA. Microbial biogeography and ecology of the mouth and implications for periodontal diseases. <em>Periodontol 2000</em>. 2020 Feb;82(1):26-41. <a href="https://doi.org/10.1111/prd.12268" target="_blank">doi: 10.1111/prd.12268</a>.</li>
+
+  <li>Davis NM, <strong>Proctor DM</strong>, Holmes SP, Relman DA, Callahan BJ. Simple statistical identification and removal of contaminant sequences in marker-gene and metagenomics data. <em>Microbiome</em>. 2018 Dec 17;6(1):226. <a href="https://doi.org/10.1186/s40168-018-0605-2" target="_blank">doi: 10.1186/s40168-018-0605-2</a>.</li>
+
+  <li>Goltsman DSA, Sun CL, <strong>Proctor DM</strong>, DiGiulio DB, Robaczewska A, Thomas BC, Shaw GM, Stevenson DK, Holmes SP, Banfield JF, Relman DA. Metagenomic analysis with strain-level resolution reveals fine-scale variation in the human pregnancy microbiome. <em>Genome Res</em>. 2018 Oct;28(10):1467-1480. <a href="https://doi.org/10.1101/gr.236000.118" target="_blank">doi: 10.1101/gr.236000.118</a>. Epub 2018 Sep 19.</li>
+
+  <li><strong>Proctor DM</strong>, Fukuyama JA, Loomer PM, Armitage GC, Lee SA, Davis NM, Ryder MI, Holmes SP, Relman DA. A spatial gradient of bacterial diversity in the human oral cavity shaped by salivary flow. <em>Nat Commun</em>. 2018 Feb 14;9(1):681. <a href="https://doi.org/10.1038/s41467-018-02900-1" target="_blank">doi: 10.1038/s41467-018-02900-1</a>.</li>
+
+  <li><strong>Proctor DM</strong>, Relman DA. The Landscape Ecology and Microbiota of the Human Nose, Mouth, and Throat. <em>Cell Host Microbe</em>. 2017 Apr 12;21(4):421-432. <a href="https://doi.org/10.1016/j.chom.2017.03.011" target="_blank">doi: 10.1016/j.chom.2017.03.011</a>.</li>
+</ul>
