@@ -10,12 +10,10 @@ Individuals interested in exploring opportunities in our group should email a st
 <img src="diana.png" alt="Diana M. Proctor" width="150" height="150"
      style="margin-left: 20px; float: right; border-radius: 12px; border: 1px solid #ccc; object-fit: cover; object-position: center;">
 
-<p>
-  <strong>Principal Investigator</strong>
-</p>
+<p><strong>Principal Investigator</strong></p>
 
 <p>
-  A first generation college graduate and native of West Texas, Diana completed a B.A. at Hampshire College before earning a PhD in the Department of Microbiology & Immunology at Stanford University. She completed postdoctoral training in microbial genomics at the NIH prior to starting her Lab in October 2024.
+  A first-generation college graduate and native of West Texas, Diana completed a B.A. at Hampshire College before earning a PhD in the Department of Microbiology & Immunology at Stanford University. She completed postdoctoral training in microbial genomics at the NIH prior to starting her lab in October 2024.
 </p>
 
 <p>
@@ -28,14 +26,37 @@ Individuals interested in exploring opportunities in our group should email a st
 
 <hr style="clear: both; margin-top: 40px; margin-bottom: 40px;">
 
+
+<h3><strong>Sanduni Ranasinghe, M.S.</strong></h3>
+
+<img src="sanduni.png" alt="Sanduni Ranasinghe" width="150" height="150"
+     style="margin-left: 20px; float: right; border-radius: 12px; border: 1px solid #ccc; object-fit: cover; object-position: center;">
+
+<p><strong>PhD Student</strong></p>
+
+<p>Placeholder for Sanduni</p>
+
+<hr style="clear: both; margin-top: 40px; margin-bottom: 40px;">
+
+
+<h3><strong>Oliyad Jeilu Omer, PhD</strong></h3>
+
+<img src="oliyad.png" alt="Oliyad Jeilu Omer" width="150" height="150"
+     style="margin-left: 20px; float: right; border-radius: 12px; border: 1px solid #ccc; object-fit: cover; object-position: center;">
+
+<p><strong>Postdoctoral Fellow</strong></p>
+
+<p>Placeholder for Oliyad</p>
+
+<hr style="clear: both; margin-top: 40px; margin-bottom: 40px;">
+
+
 <h3><strong>Lucy Proctor</strong></h3>
 
 <img src="lucy.jpeg" alt="Lucy Proctor" width="150" height="150"
      style="margin-left: 20px; float: right; border-radius: 12px; border: 1px solid #ccc; object-fit: cover; object-position: center;">
 
-<p>
-  <strong>Principal Stick Investigator</strong>
-</p>
+<p><strong>Principal Stick Investigator</strong></p>
 
 <p>
   Meet Lucy, our Principal Stick Investigator. While we wrangle data in the lab, Lucy takes charge of sticks, snow, and sand with unmatched enthusiasm. Her playful spirit and unwavering loyalty bring joy to our team, reminding us to find balance in our work and play.
