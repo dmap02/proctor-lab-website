@@ -39,14 +39,21 @@ Individuals interested in exploring opportunities in our group should email a st
 <hr style="clear: both; margin-top: 40px; margin-bottom: 40px;">
 
 
-<h3><strong>Oliyad Jeilu Omer, PhD</strong></h3>
+<h3><strong>Oliyad Jeilu, PhD</strong></h3>
 
-<img src="oliyad.png" alt="Oliyad Jeilu Omer" width="150" height="150"
+<img src="oliyad.png" alt="Oliyad Jeilu" width="150" height="150"
      style="margin-left: 20px; float: right; border-radius: 12px; border: 1px solid #ccc; object-fit: cover; object-position: center;">
 
 <p><strong>Postdoctoral Fellow</strong></p>
 
 <p>Placeholder for Oliyad</p>
+
+<p>
+  You can learn more about Oliyad's work 
+  <a href="https://scholar.google.com/citations?user=_aED1RcAAAAJ&hl=en&inst=10220790398908802146" target="_blank" rel="noopener noreferrer">
+    here
+  </a>.
+</p>
 
 <hr style="clear: both; margin-top: 40px; margin-bottom: 40px;">
 
