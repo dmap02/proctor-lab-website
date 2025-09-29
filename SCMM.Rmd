@@ -1,13 +1,26 @@
 ---
 output: html_document
 ---
-<h1 style="font-size:1.8em; text-align:center;">
-  22nd Annual South Central Medical Mycology (SCMM 2025) Meeting
+<h1 style="font-size:2.5em; text-align:center;">
+  22nd Annual South Central Medical Mycology
+</h1>
+<h1 style="font-size:2.5em; text-align:center; margin-top:0;">
+  (SCMM 2025) Meeting
 </h1>
 
 <p style="text-align:center;">
-  <img src="logos.png" alt="SCMM logos" style="max-width:99%; height:120px; object-fit:contain;">
+  <img src="scmm_2024.jpeg" alt="SCMM 2024"
+       style="max-width:60%; height:auto; object-fit:contain;">
 </p>
+
+
+<p><strong>Dates:</strong> Thursday–Friday, <strong>November 20–21, 2025</strong><br></p>
+
+<p>Welcome, SCMM community! We’re excited to host the <strong>22nd Annual SCMM</strong> in Houston, TX. </p>
+
+<p>This year, we are introducing a new <strong>trainee networking event</strong>: a bag-lunch session on Thursday designed to connect trainees with professionals across venture capital, bench science, science writing, and academia. Details will be emailed to registered trainees.</p>
+
+<hr>
 
 
 <p><strong>Dates:</strong> Thursday–Friday, <strong>November 20–21, 2025</strong><br>
@@ -163,5 +176,8 @@ Professor, Dartmouth<br>
 
 <p><em>Last updated: {{ Sept. 26, 2025 }}</em></p>
 
-</body>
-</html>
+<!-- bottom logos -->
+<p style="text-align:center; margin-top:20px;">
+  <img src="logos.png" alt="SCMM logos"
+       style="max-width:99%; height:120px; object-fit:contain;">
+</p>
