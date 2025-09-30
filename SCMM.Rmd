@@ -23,14 +23,6 @@ output: html_document
 <hr>
 
 
-<p><strong>Dates:</strong> Thursday–Friday, <strong>November 20–21, 2025</strong><br>
-
-<p>Welcome, SCMM community! We’re excited to host the <strong>22nd Annual SCMM</strong> in Houston, TX. 
-
-<p>This year, we are introducing a new <strong>trainee networking event</strong>: a bag-lunch session on Thursday designed to connect trainees with professionals across venture capital, bench science, science writing, and academia. Details will be emailed to registered trainees.</p>
-
-<hr>
-
 <h2>Quick links &amp; deadlines</h2>
 <ul>
   <li><strong>Register by October 17, 2025:</strong> <a href="https://redcap.sph.uth.edu/surveys/?s=RAMYDRL4AAWHHYKJ">Register »</a></li>
