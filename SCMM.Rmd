@@ -130,13 +130,24 @@ output: html_document
 
 <hr>
 
-<h2>Career Development &amp; Networking</h2>
+<h2>Career Development & Networking</h2>
 <ul>
-  <li><strong>Trainee Bag-Lunch (Thu 11:00 AM):</strong> Curated tables with mentors from VC, industry/bench science, science writing, and academia.</li>
-  <li><strong>Career Panel (Fri 2:00 PM):</strong> Perspectives on non-academic trajectories, Q&amp;A.</li>
+  <li><strong>Trainee Bag-Lunch (Thu 11:00 AM):</strong> Curated tables with mentors from VC, industry/bench science, science writing, and academia.  
+ <a href="SCMM_2025_Networking_Primer_for_Trainees_DP.docx"
+   target="_blank" rel="noopener">
+   Networking Tips & Tricks (SCMM 2025 Primer)
+</a>
+  </li>
+
+  <li><strong>Career Panel (Fri 2:00 PM):</strong> Perspectives on non-academic trajectories, Q&A.  
+      <a href="SCMM_Bios-2.docx" target="_blank" rel="noopener" style="margin-left:8px;">
+        Speaker Bios (SCMM_Bios-2.docx)
+      </a>
+  </li>
 </ul>
 
 <hr>
+
 
 <h2>Keynote Speaker</h2>
 <p><strong>Dr. Deborah A. Hogan</strong><br>
