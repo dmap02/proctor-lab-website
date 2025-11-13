@@ -35,9 +35,26 @@ output: html_document
 
 <h2>Venue</h2>
 <p><strong>BRC (BioScience Research Collaborative)</strong><br>
-6500 Main St., Houston, TX 77030<br>
+6500 Main St., Houston, TX 77030
+<strong>Conference rooms:</strong> BRC Event Hall<br>
 
-<strong>Conference rooms:</strong> Posted onsite at check-in<br>
+</p>
+
+<p><strong> Parking Information</strong><br>
+<p>
+We strongly encourage attendees to walk or park at the conference hotel whenever possible. Limited parking is available at the BRC Garage for those who need it, but spaces are not guaranteed. Shuttles will run between the BRC, Valhalla, and Hungry’s and back to the hotel, so cars are not needed at the site.
+</p>
+
+<p><strong> BRC Garage Details</strong><br>
+<p>
+The garage entrance is located off <strong>Dryden Rd.</strong> Parking is <strong>credit-card only</strong>:
+</p>
+<ul>
+  <li>Insert your credit card at the entrance gate to enter (your card acts as a placeholder; no charge until exit).</li>
+  <li>Park in any available space and take the elevator to the <strong>first floor</strong> of the BRC.</li>
+  <li>Use the <strong>same credit card</strong> at the exit gate to pay when leaving.</li>
+  <li>Press the <strong>call button</strong> at the gate for any issues.</li>
+</ul>
 
 <hr>
 
@@ -132,17 +149,26 @@ output: html_document
 
 <h2>Career Development & Networking</h2>
 <ul>
-  <li><strong>Trainee Bag-Lunch (Thu 11:00 AM):</strong> Curated tables with mentors from VC, industry/bench science, science writing, and academia.  
- <a href="SCMM_2025_Networking_Primer_for_Trainees_DP.docx"
-   target="_blank" rel="noopener">
-   Networking Tips & Tricks (SCMM 2025 Primer)
-</a>
+  <li>
+    <strong>Trainee Bag-Lunch (Thu 11:00 AM):</strong> 
+    Curated tables with mentors from VC, industry/bench science, science writing, and academia.
+
+    <a href="SCMM2025NetworkingPrimer.docx" 
+       target="_blank" rel="noopener" 
+       style="margin-left:8px;">
+       Networking Tips & Tricks (SCMM 2025 Primer)
+    </a>
+
+    <a href="SCMM_Bios-2.docx" 
+       target="_blank" rel="noopener" 
+       style="margin-left:8px;">
+       Speaker Bios (SCMM_Bios-2.docx)
+    </a>
   </li>
 
-  <li><strong>Career Panel (Fri 2:00 PM):</strong> Perspectives on non-academic trajectories, Q&A.  
-      <a href="SCMM_Bios-2.docx" target="_blank" rel="noopener" style="margin-left:8px;">
-        Speaker Bios (SCMM_Bios-2.docx)
-      </a>
+  <li>
+    <strong>Career Panel (Fri 2:00 PM):</strong> 
+    Perspectives on non-academic trajectories, Q&A.
   </li>
 </ul>
 
@@ -177,10 +203,10 @@ Professor, Dartmouth<br>
 
 <p>We look forward to celebrating <strong>22 years of SCMM</strong> with you in Houston!</p>
 
-<p><em>Last updated: {{ Sept. 26, 2025 }}</em></p>
+<p><em>Last updated: {{ November 13, 2025 }}</em></p>
 
 <!-- bottom logos -->
 <p style="text-align:center; margin-top:20px;">
   <img src="logos.png" alt="SCMM logos"
-       style="max-width:99%; height:120px; object-fit:contain;">
+       style="max-width:100%; height:240px; object-fit:contain;">
 </p>
