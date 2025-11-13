@@ -206,13 +206,6 @@ output: html_document
 
 <hr>
 
-<h2>Organizing Team</h2>
-<ul>
-  <li><strong>Co-Chairs:</strong> Diana Proctor, Luis Vega, Christian Perez &amp; Michael Lorenz</li>
-</ul>
-
-<hr>
-
 <h2>Student Ambassadors</h2>
 <p>Our UTHealth Houston Student Ambassadors to SCMM will assist with registration, run microphones during Q&amp;A sessions, help set up food, and support overall conference logistics.</p>
 
@@ -227,6 +220,14 @@ output: html_document
 </div>
 
 <hr>
+
+<h2>Organizing Team</h2>
+<ul>
+  <li><strong>Co-Chairs:</strong> Diana Proctor, Luis Vega, Christian Perez &amp; Michael Lorenz</li>
+</ul>
+
+<hr>
+
 
 <h2>Contact</h2>
 <p>Questions? Email Diana <strong>dinah.m.proctor@uth.tmc.edu</strong>.</p>
