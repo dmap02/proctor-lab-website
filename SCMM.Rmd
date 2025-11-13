@@ -38,7 +38,7 @@ output: html_document
 <strong>Conference rooms:</strong> BRC Event Hall</p>
 
 <p><strong>Parking Information</strong></p>
-<p>We strongly encourage attendees to walk or park at the conference hotel whenever possible. Limited parking is available at the BRC Garage for those who need it, but spaces are not guaranteed. Shuttles will run between the BRC, Valhalla, and Hungry’s and back to the hotel, so cars are not needed at the site.</p>
+<p>We strongly encourage attendees to walk or park at the conference hotel whenever possible. Limited parking is available at the BRC Garage for those who need it, but spaces are not guaranteed. A shuttle will run between the BRC, Valhalla, and Hungry’s, and back to the hotel at select times, so cars are not needed at the site. Our student ambassadors will also be there to help escort those who wish to walk between venues, given that everything is within close proximity. </p>
 
 <p><strong>BRC Garage Details</strong></p>
 <p>The garage entrance is located off <strong>Dryden Rd.</strong> Parking is <strong>credit-card only</strong>:</p>
@@ -210,9 +210,10 @@ output: html_document
 <p>Our UTHealth Houston Student Ambassadors to SCMM will assist with registration, run microphones during Q&amp;A sessions, help set up food, and support overall conference logistics.</p>
 
 <ul>
-  <li><strong>Dakota Archambault</strong> — Third-year PhD student</li>
+  <li><strong>Dakota Archambault</strong> — Fifth-year PhD student</li>
   <li><strong>Kimberly Garcia</strong> — Second-year PhD student</li>
   <li><strong>Katy Ayers</strong> — First-year PhD student</li>
+    <li><strong>Sanduni Ranasinghe </strong> — Second-year PhD student</li>
 </ul>
 
 <div style="margin-top: 1em; text-align: center;">
