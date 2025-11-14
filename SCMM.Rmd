@@ -217,7 +217,8 @@ output: html_document
 </ul>
 
 <div style="margin-top: 1em; text-align: center;">
-  <img src="images/ambassadors.png" alt="SCMM Student Ambassadors" style="max-width: 100%; height: auto; border-radius: 8px;">
+  <img src="ambassadors.png" alt="SCMM Student Ambassadors"
+       style="max-width: 60%; height: auto; border-radius: 8px;">
 </div>
 
 <hr>
