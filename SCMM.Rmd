@@ -116,7 +116,7 @@ Conference rooms: BRC Event Hall</p>
   </tr>
   <tr>
     <td style="text-align:right; font-weight:bold; padding:6px;">9:45 – 10:15 AM</td>
-    <td style="padding:6px;">Elevator talks (3 min each) (Chair: Diana Proctor)</td>
+    <td style="padding:6px;">Elevator talks (3 min each) (Chair: Luis Vega)</td>
   </tr>
   <tr>
     <td style="text-align:right; font-weight:bold; padding:6px;">10:15 – 10:40 AM</td>
@@ -179,7 +179,7 @@ Conference rooms: BRC Event Hall</p>
 <h2>Session Chairs</h2>
 <div style="text-align:left;">
   <ul>
-    <li><strong>Diana M. Proctor</strong> — Assistant Professor, UTHealth Houston McGovern Medical School</li>
+    <li><strong>Luis Vega</strong> — Research Assistant Professor, UTHealth Houston McGovern Medical School</li>
     <li><strong>Pedro Miramón</strong> — Research Assistant Professor, The University of Texas Health Science Center at Houston</li>
     <li><strong>Karen Wozniak</strong> — Associate Professor, Oklahoma State University</li>
     <li><strong>Jesús Romo</strong> — Assistant Professor, UT San Antonio</li>
