@@ -62,9 +62,16 @@ Conference rooms: BRC Event Hall</p>
 <hr>
 
 <h2>Schedule at a Glance</h2>
+
 <p style="text-align:left;">
   <a href="SCMM_Schedule_Final.docx" download>
     Download the FULL Schedule here.
+  </a>
+</p>
+
+<p style="text-align:left;">
+  <a href="SCMM_abstracts_v6.0.docx" download>
+    Download the Abstract Book here.
   </a>
 </p>
 
