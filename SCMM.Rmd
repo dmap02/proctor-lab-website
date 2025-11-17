@@ -224,9 +224,10 @@ Conference rooms: BRC Event Hall</p>
 
 <ul>
   <li><strong>Dakota Archambault</strong> — Fifth-year PhD student</li>
-  <li><strong>Kimberly Garcia</strong> — Second-year PhD student</li>
-  <li><strong>Katy Ayers</strong> — First-year PhD student</li>
+   <li><strong>Katy Ayers</strong> — First-year PhD student</li>
     <li><strong>Sanduni Ranasinghe </strong> — Second-year PhD student</li>
+     <li><strong>Kimberly Garcia</strong> — Second-year PhD student</li>
+
 </ul>
 
 <div style="margin-top: 1em; text-align: center;">
